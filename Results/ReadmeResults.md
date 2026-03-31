@@ -4,5 +4,5 @@ The results show that the refinement process achieves clear improvements over th
 Overall, these findings confirm that iterative refinement guided by function-wise comparisons is an effective strategy to strengthen mutation operators and improve convergence behavior within the Differential Evolution framework.
 
 <p align="center">
-  <img src="Prueba_tabla1.jpg" width="900">
+  <img src="Results.jpg" width="900">
 </p>
