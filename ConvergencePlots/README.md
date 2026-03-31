@@ -7,3 +7,6 @@ These results confirm that the refinement process introduces structural modifica
 For lower-complexity functions, the refined mutations converge rapidly toward the global optimum, requiring fewer evaluations to reach high-quality solutions. For more challenging landscapes, including ill-conditioned and multimodal functions, the operators maintain a stable improvement trend, avoid premature convergence, and achieve more accurate final fitness values compared to the baseline.
 
 Overall, these results highlight the effectiveness of the performance-based refinement scheme and identify GPT-5 mini as the most effective model for generating improved mutation operators within the Differential Evolution framework.
+
+![OVERLEAF](Learning-Differential-Evolution-Mutation-Strategies-via-Performance-Driven-Large-Language-Models/ConvergencePlots
+/f1_40DIMS.png)
