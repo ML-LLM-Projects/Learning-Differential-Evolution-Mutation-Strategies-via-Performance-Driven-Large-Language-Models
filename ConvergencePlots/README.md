@@ -11,12 +11,17 @@ Overall, these results highlight the effectiveness of the performance-based refi
 <p align="center">
 <table>
   <tr>
-    <td><img src="f1_40DIMS.png" width="300"></td>
-    <td><img src="f1_40DIMS.png" width="300"></td>
+    <td><img src="f1p_40DIMS.png" width="300"></td>
+    <td><img src="f6p_40DIMS.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="f1_40DIMS.png" width="300"></td>
-    <td><img src="f1_40DIMS.png" width="300"></td>
+    <td><img src="f10p_40DIMS.png" width="300"></td>
+    <td><img src="f15p_40DIMS.png" width="300"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="master_label.png" width="400">
+    </td>
   </tr>
 </table>
 </p>
