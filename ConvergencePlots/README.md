@@ -8,5 +8,16 @@ For lower-complexity functions, the refined mutations converge rapidly toward th
 
 Overall, these results highlight the effectiveness of the performance-based refinement scheme and identify GPT-5 mini as the most effective model for generating improved mutation operators within the Differential Evolution framework.
 
-![OVERLEAF](Learning-Differential-Evolution-Mutation-Strategies-via-Performance-Driven-Large-Language-Models/ConvergencePlots
-/f1_40DIMS.png)
+<p align="center">
+<table>
+  <tr>
+    <td><img src="f1_40DIMS.png" width="300"></td>
+    <td><img src="f1_40DIMS.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="f1_40DIMS.png" width="300"></td>
+    <td><img src="f1_40DIMS.png" width="300"></td>
+  </tr>
+</table>
+</p>
+
