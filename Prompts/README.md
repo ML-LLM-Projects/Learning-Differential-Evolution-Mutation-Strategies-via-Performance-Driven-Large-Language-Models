@@ -52,7 +52,7 @@ The output must be only the function code.
 
 The prompt in Stage 2 iteratively refines the mutation operator obtained in Stage 1 by guiding the LLM to propose small modifications based on performance feedback. At each step, the model receives the current best operator and comparative results, generating improved variants that are evaluated and stored. This feedback-driven loop enables the model to reinforce beneficial changes and progressively enhance the operator’s performance.
 
-## Refinement Prompt
+## Refinement Prompt (Stage 2)
 
 ```text
 You are a world-class optimization researcher. 
